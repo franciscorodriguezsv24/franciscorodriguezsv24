@@ -25,7 +25,7 @@ Hello! I'm Francisco, a passionate web developer with standout skills in React.j
 I'm excited to connect and collaborate on exciting web projects! Feel free to reach out to me via:
 
 - **Email:** [My Email](mailto:franciscorodriguezsv24@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/franciscorodriguezsv24/)
+- **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/franciscorodriguezsv24/))
 - **Website/Portfolio:** [My Portfolio](https://franrodriguez.click/)
 
 I look forward to the opportunity to work together to create exceptional web experiences!
