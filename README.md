@@ -18,7 +18,7 @@ Hello! I'm Francisco, a passionate web developer with standout skills in React.j
 
 - **React.js:** Extensive experience in developing dynamic and efficient user interfaces using React.js. Capable of creating reusable components and high-performance interactive web applications.
 
-- **Ruby on Rails:** Solid proficiency in developing robust an 
+- **Ruby on Rails:** Solid proficiency in developing robust and scalable web applications with Ruby on Rails. Familiar with MVC principles and agile software development.
 
 ### Contact
 
