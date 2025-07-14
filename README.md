@@ -1,6 +1,6 @@
 # Francisco Rodriguez
 
-## Web Developer | React.js | Ruby on Rails
+## Web Developer | React.js 
 
 Hello! I'm Francisco, a passionate web developer with standout skills in React.js and Ruby on Rails. My approach to web development is characterized by a constant commitment to excellence and continuous learning.
 
